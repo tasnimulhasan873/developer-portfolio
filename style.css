@@ -12,6 +12,9 @@ h1{
 p{
   text-align: left 50px;
 }
+.cone{
+  text-align: right 50px;
+}
 section{
   display: flex;
 }
